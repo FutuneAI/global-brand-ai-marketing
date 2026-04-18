@@ -1,8 +1,8 @@
 # AI-Era Marketing for Global Brands
 
-A practical reference library for building marketing systems that work in the age of generative AI — written for brands expanding internationally, particularly from China to English-speaking markets.
+A practical reference library for building marketing systems that work in the age of generative AI. Written for brands expanding internationally, particularly from China to English-speaking markets.
 
-**By [FutuneAI](https://medium.com/@futuneai)**
+**By [FutuneAI](https://www.futuneai.com/)(https://medium.com/@futuneai)**
 
 ---
 
@@ -18,7 +18,7 @@ The research covers three questions:
 - What does an effective marketing infrastructure look like when AI is part of the decision chain?
 - What have real brands done to adapt, and what actually worked?
 
-Each document in this repository is a standalone reference that corresponds to a published article. The articles are where the argument is made. The repository is where the framework lives — structured for citation, not for reading linearly.
+Each document in this repository is a standalone reference that corresponds to a published article. The articles are where the argument is made. The repository is where the framework lives: structured for citation, not for reading linearly.
 
 ---
 
@@ -45,28 +45,28 @@ global-brand-ai-marketing/
 
 ## Phase 2: AI-Era Marketing System for Global Brands
 
-> *Phase 1 established how AI systems form brand perception. Phase 2 addresses what to do about it — how to build a marketing infrastructure that generates real commercial outcomes in the AI era.*
+> *Phase 1 established how AI systems form brand perception. Phase 2 addresses what to do about it, how to build a marketing infrastructure that generates real commercial outcomes in the AI era.*
 
 | # | Document | Core Argument |
 |---|----------|---------------|
-| 1 | [Marketing Infrastructure](./phase-2-global-marketing/01-marketing-infrastructure.md) | The standard global marketing stack — website, content, distribution — has structural gaps that make brands invisible to AI retrieval systems |
-| 2 | [Effective Content](./phase-2-global-marketing/02-effective-content.md) | Localization is not translation. It is cultural-semantic re-encoding — and machine-translated content has near-zero retrieval value |
-| 3 | [AI Search Traffic](./phase-2-global-marketing/03-ai-search-traffic.md) | Perplexity, ChatGPT Search, and Gemini operate on different retrieval mechanisms — and require different content strategies |
-| 4 | [B2B Decision Chain](./phase-2-global-marketing/04-b2b-decision-chain.md) | Overseas buyers increasingly use AI at the category research stage — before they ever visit a vendor website |
-| 5 | [Content Ops Rhythm](./phase-2-global-marketing/05-content-ops-rhythm.md) | Publishing frequency, format, channel, and measurement — an executable operational framework |
+| 1 | [Marketing Infrastructure](./phase-2-global-marketing/01-marketing-infrastructure.md) | The standard global marketing stack: website, content, distribution, has structural gaps that make brands invisible to AI retrieval systems |
+| 2 | [Effective Content](./phase-2-global-marketing/02-effective-content.md) | Localization is not translation. It is cultural-semantic re-encoding, and machine-translated content has near-zero retrieval value |
+| 3 | [AI Search Traffic](./phase-2-global-marketing/03-ai-search-traffic.md) | Perplexity, ChatGPT Search, and Gemini operate on different retrieval mechanisms and require different content strategies |
+| 4 | [B2B Decision Chain](./phase-2-global-marketing/04-b2b-decision-chain.md) | Overseas buyers increasingly use AI at the category research stage, even before they ever visit a vendor website |
+| 5 | [Content Ops Rhythm](./phase-2-global-marketing/05-content-ops-rhythm.md) | Publishing frequency, format, channel, and measurement, as an executable operational framework |
 
 ---
 
 ## Phase 3: GEO Cases and Evidence
 
-> *Phase 1 and 2 are methodology. Phase 3 validates that methodology against observed outcomes — and builds FutuneAI's identity as a practitioner with real cases, not just a commentator.*
+> *Phases 1 and 2 are methodology. Phase 3 validates that methodology against observed outcomes， and builds FutuneAI's identity as a practitioner with real cases, not just a commentator.*
 
 | # | Document | Core Argument |
 |---|----------|---------------|
 | 1 | [Zero to Recommended](./phase-3-case-studies/01-zero-to-recommended.md) | An anonymized case: timeline, specific actions, and measured changes in AI mention across each phase |
-| 2 | [Entity Repair](./phase-3-case-studies/02-entity-repair.md) | A brand described incorrectly in English-language AI — the repair process and before/after comparison |
+| 2 | [Entity Repair](./phase-3-case-studies/02-entity-repair.md) | A brand described incorrectly in English-language AI， with the repair process and before/after comparison |
 | 3 | [Industry Variance](./phase-3-case-studies/03-industry-variance.md) | Why AI visibility is harder in some categories than others: B2B manufacturing, SaaS, consumer goods, professional services |
-| 4 | [2026 GEO Review](./phase-3-case-studies/04-2026-review.md) | Annual review: which GEO practices produced results, which didn't — establishing FutuneAI as a longitudinal observer |
+| 4 | [2026 GEO Review](./phase-3-case-studies/04-2026-review.md) | Annual review: which GEO practices produced results, which didn't. Establishing FutuneAI as a longitudinal observer |
 
 ---
 
@@ -80,6 +80,27 @@ The underlying technical model — how AI systems form brand perception, how ret
 
 Documents in this repository reference the framework where relevant. The framework does not reference this repository — it is a definition layer, not a strategy layer.
 
+## Foundation: Phase 1 — AI Visibility
+Before building a marketing system for the AI era, the prerequisite is understanding how AI systems form brand perception. Phase 1 covers this foundation: what AI visibility is, how entity identity works, how structured data affects attribution, and how to measure visibility.
+
+Phase 1 full articles: [FutuneAI on Medium](https://medium.com/@futuneai) · series: AI Visibility
+
+Phase 1 technical framework and definitions: [FutuneAI/ai-visibility-framework](https://github.com/FutuneAI/ai-visibility-framework)
+Key Phase 1 reference documents used throughout this series:
+- What Is AI Visibility
+- Entity Identity
+- Retrieval Mechanisms
+- AI Visibility Diagnostic
+
+---
+
+## Relationship to AI Visibility Framework
+This repository covers what to do for marketing strategy and execution in the AI era.
+
+The underlying technical model, how AI systems form brand perception, how retrieval mechanisms work, and how visibility can be assessed, is documented separately in: [FutuneAI/ai-visibility-framework](https://github.com/FutuneAI/ai-visibility-framework)
+
+Documents in this repository reference the framework where relevant. The framework does not reference this repository. It is a definition layer, not a strategy layer.
+
 ---
 
 ## Published Articles
@@ -87,7 +108,7 @@ Documents in this repository reference the framework where relevant. The framewo
 Each document in this repository corresponds to a full article published on Medium and Substack. The repository contains the framework structure; the articles contain the full argument.
 
 - **Medium:** [medium.com/@futuneai](https://medium.com/@futuneai)
-- **Substack:** *(link)*
+- **Substack:** *[substack.com/@futuneai](https://substack.com/@futuneai))*
 
 ---
 
