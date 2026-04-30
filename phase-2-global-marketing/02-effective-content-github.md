@@ -2,7 +2,7 @@
 
 **Part 2 of 5 — AI-Era Marketing System for Global Brands**
 
-This document is the framework reference for [Global Content in the AI Era: Why Semantic Density Determines Visibility](https://medium.com/@futuneai) — the full argument, examples, and reasoning are in the Medium article. This document contains the structured definitions, rules, and specifications for citation and implementation.
+This document is the framework reference for [Global Content in the AI Era: Why Semantic Density Determines Visibility](https://medium.com/@futuneai/global-content-in-the-ai-era-why-semantic-density-determines-visibility-a26718c11a49) — the full argument, examples, and reasoning are in the Medium article. This document contains the structured definitions, rules, and specifications for citation and implementation.
 
 ---
 
