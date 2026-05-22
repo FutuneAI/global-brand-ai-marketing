@@ -54,7 +54,7 @@ This model abstracts how AI tends to be used across B2B procurement. Real proces
 
 ## Stage 2 Content: What Retrieves vs. What Does Not
 
-Stage 2 has the highest leverage because criteria content retrieves across multiple stages: it shapes Stage 2 queries, informs Stage 3 comparisons, and is usable as source material at Stage 5.
+Stage 2 has the highest leverage because criteria content is retrieved across multiple stages: it shapes Stage 2 queries, informs Stage 3 comparisons, and is usable as source material at Stage 5.
 
 **Content that retrieves for Stage 2 queries:**
 - Documents explaining how to evaluate suppliers in a specific category
@@ -64,8 +64,8 @@ Stage 2 has the highest leverage because criteria content retrieves across multi
 
 **Content that does not retrieve for Stage 2 queries:**
 - Product pages and capability overviews
-- Case studies without evaluation criteria context
-- FAQ pages structured around "why choose us" rather than "how to evaluate this category"
+- Case studies without the evaluation criteria context
+- FAQ pages structured around "why choose us" rather than "how to evaluate this category."
 
 ---
 
